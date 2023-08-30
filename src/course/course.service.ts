@@ -154,7 +154,7 @@ export class CourseService {
     //     } catch (error) {
     //         // Handle errors appropriately (e.g., log or throw)
     //         console.error('Error searching for courses:', error);
-    //         throw error;
+    //         throw error;gi
     //     }
 
 
